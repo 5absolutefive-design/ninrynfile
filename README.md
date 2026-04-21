@@ -1,2 +1,0 @@
-# ninrynfile
-srt
